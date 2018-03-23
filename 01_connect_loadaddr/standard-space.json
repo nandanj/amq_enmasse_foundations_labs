@@ -2,8 +2,8 @@
   "apiVersion": "enmasse.io/v1",
   "kind": "AddressSpace",
   "metadata": {
-      "name": "std-addrspc",
-    "namespace": "mar23std"
+      "name": "standard-npj",
+    "namespace": "standard-npj"
   },
   "spec": {
     "type": "standard",
