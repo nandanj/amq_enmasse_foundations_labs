@@ -2,8 +2,8 @@
   "apiVersion": "enmasse.io/v1",
   "kind": "AddressSpace",
   "metadata": {
-    "name": "brokered-addrspc",
-    "namespace": "brokered-mt"
+    "name": "brk-addrspc",
+    "namespace": "mar23brk"
   },
   "spec": {
     "type": "brokered",

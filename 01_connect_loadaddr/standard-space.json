@@ -2,8 +2,8 @@
   "apiVersion": "enmasse.io/v1",
   "kind": "AddressSpace",
   "metadata": {
-    "name": "standard-addrspc",
-    "namespace": "standard-mt"
+      "name": "std-addrspc",
+    "namespace": "mar23std"
   },
   "spec": {
     "type": "standard",
